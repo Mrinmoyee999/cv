@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+   
+}
+h3{
+    color: slateblue;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.bacon{
+    border-radius: 50%;
+    background-color: #810034;
+    box-shadow: #e2bcb7;
+    }
+.mushroom{
+    border-radius: 50%;
+    background-color:peru;
+    box-shadow: #e2bcb7;
+}
+#heading{
+    color: #000;
+}
+img:hover {
+    background-color: gold;
+}
+
